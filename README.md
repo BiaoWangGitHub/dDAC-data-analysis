@@ -1,2 +1,2 @@
 # dDAC-data-analysis
-Python code for dDAC data analysis
+python code for dDAC data analysis
